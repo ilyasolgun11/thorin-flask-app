@@ -1,0 +1,13 @@
+.col-md-5 img {
+  width: 100%;
+}
+
+.flashes {
+  width: 100%;
+  list-style-type: none;
+  background-color: rgb(173, 255, 173);
+  padding: 10px 15px;
+  text-align: left;
+  border-radius: 6px;
+  font-weight: 500;
+}
